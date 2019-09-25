@@ -1,2 +1,5 @@
-# plugin-TwigRussianPluralExtension
-Russian text pluralize twig extension for Pandora 3
+# Pandora 3 - TwigRussianPluralExtension plugin
+
+Provides `plural` filter for Twig.
+Usage: `{{ ['%s пользователь', '% пользователя', '% пользователей']|plural(count) }}`
+
