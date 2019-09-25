@@ -1,0 +1,20 @@
+{
+	"name": "pandora3/plugin-twig-russian-plural-extension",
+	"type": "pandora3-plugin",
+	"description": "Pandora 3: Plugin TwigRussianPluralExtension",
+	"homepage": "https://github.com/PandoraTeam/pandora3-plugin-TwigRussianPluralExtension",
+	"authors": [
+		{
+			"name": "Petr Gostin",
+			"email": "nescafe238@gmail.com",
+			"homepage": "http://u-238.ru",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"pandora3/plugin-twig": "^1.0"
+	},
+	"extra": {
+		"installer-name": "TwigRussianPluralExtension"
+	}
+}
