@@ -4,6 +4,10 @@ namespace Pandora3\Plugins\TwigRussianPluralExtension;
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFilter;
 
+/**
+ * Class RussianPluralExtension
+ * @package Pandora3\Plugins\TwigRussianPluralExtension
+ */
 class RussianPluralExtension extends AbstractExtension {
 
 	public function getFilters() {
